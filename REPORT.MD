@@ -63,7 +63,10 @@ My plan of action was relatively simple it was to
   a lot more pleasent to look at. 
   
   Something I wish I did better was just have clean code a long the way, some of my variables names could have been  
-  better as well as constraints that I set up could have been more specific.
+  better as well as constraints that I set up could have been more specific. Also, I wish i committed more frequently,  
+  after every little change, I should have pushed those instead of having big commits.  
+  
+  At the end of the day, I am happy with what I was able to accomplish and learn despite its holes.
   
   
  
